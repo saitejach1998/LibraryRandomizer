@@ -1,0 +1,9 @@
+MANIFEST.in
+randomizer.py
+setup.py
+randomizer.egg-info/PKG-INFO
+randomizer.egg-info/SOURCES.txt
+randomizer.egg-info/dependency_links.txt
+randomizer.egg-info/entry_points.txt
+randomizer.egg-info/requires.txt
+randomizer.egg-info/top_level.txt
