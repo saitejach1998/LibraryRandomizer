@@ -1,9 +1,6 @@
 {
-  "name" : "TV Shows",
-  "libraries" : [
-    "E:/stuff/tv",
-    "I:/stuff/tv",
-    "C:/Personal/TV"
-    ]
+    "name" : "TV",
+    "libraries" : []
 
 }
+

@@ -51,7 +51,7 @@ class Indexer:
         files = []
         for ext in exts:
 
-            files = files + glob.glob(r''+os.path.join(path,'**/*.{}'.format(ext)),recursive=True)
+            files = files + glob.glob(os.path.join(path,'**/*.{}'.format(ext)),recursive=True)
 
             #print(os.path.join(path,'*.{}'.format(ext)))
         return files
